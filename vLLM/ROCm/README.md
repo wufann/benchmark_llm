@@ -1,4 +1,4 @@
-# ootb_vllm copy form https://github.com/seungrokj/ootb_vllm
+# scirpt copy form https://github.com/seungrokj/unified_docker_benchmark_public/tree/v2 
 
 ## Latency
 ```sh
